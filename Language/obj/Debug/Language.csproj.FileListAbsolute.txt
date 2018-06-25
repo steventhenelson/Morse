@@ -1,0 +1,14 @@
+C:\Users\snelso4x\Desktop\Documents\Programs\Leveling\Language\Language\obj\Debug\Language.csprojResolveAssemblyReference.cache
+C:\Users\snelso4x\Desktop\Documents\Programs\Leveling\Language\Language\obj\Debug\Language.csproj.CoreCompileInputs.cache
+C:\Users\snelso4x\Desktop\Documents\Programs\Leveling\Language\Language\bin\Debug\Language.exe.config
+C:\Users\snelso4x\Desktop\Documents\Programs\Leveling\Language\Language\bin\Debug\Language.exe
+C:\Users\snelso4x\Desktop\Documents\Programs\Leveling\Language\Language\bin\Debug\Language.pdb
+C:\Users\snelso4x\Desktop\Documents\Programs\Leveling\Language\Language\obj\Debug\Language.exe
+C:\Users\snelso4x\Desktop\Documents\Programs\Leveling\Language\Language\obj\Debug\Language.pdb
+C:\Users\snelso4x\Desktop\repos\Leveling\Language\Language\bin\Debug\Language.exe.config
+C:\Users\snelso4x\Desktop\repos\Leveling\Language\Language\bin\Debug\Language.exe
+C:\Users\snelso4x\Desktop\repos\Leveling\Language\Language\bin\Debug\Language.pdb
+C:\Users\snelso4x\Desktop\repos\Leveling\Language\Language\obj\Debug\Language.csproj.CoreCompileInputs.cache
+C:\Users\snelso4x\Desktop\repos\Leveling\Language\Language\obj\Debug\Language.exe
+C:\Users\snelso4x\Desktop\repos\Leveling\Language\Language\obj\Debug\Language.pdb
+C:\Users\snelso4x\Desktop\repos\Leveling\Language\Language\obj\Debug\Language.csprojAssemblyReference.cache
